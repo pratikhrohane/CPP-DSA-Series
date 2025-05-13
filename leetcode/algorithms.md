@@ -1,4 +1,4 @@
-# ⚡ **Kadane's Algorithm (C++ Version)**
+# ⚡ **Kadane's Algorithm**
 
 ---
 
